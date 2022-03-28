@@ -1,1 +1,1 @@
-# MoviesProject
+MIT MoviesProject
